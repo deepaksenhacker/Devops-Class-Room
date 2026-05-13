@@ -19,5 +19,4 @@
 ## More Steps We Use GitHub Actions in Directly Work Flow
 # GitActions have the length of Actions Tools init
 - Build, test, and deploy your code. Make code reviews, branch management, and issue triaging work the way you want. Select a workflow to get started.
-- It Has YAML configs
-
+- It Has YAML config
